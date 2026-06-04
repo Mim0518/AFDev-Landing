@@ -19,7 +19,7 @@ import { Component, HostListener, signal } from '@angular/core';
         <!-- Logo -->
         <a href="#" class="flex items-center gap-3 group focus:outline-none">
           <img 
-            src="/logos/af-logo-horizontal-light.svg" 
+            src="/logos/af-logo-horizontal-navy.svg" 
             alt="AFDevelopment Logo" 
             class="h-9 w-auto transition-transform duration-300 group-hover:scale-102"
           />

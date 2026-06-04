@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
         <!-- Left: Logo & Slogan -->
         <div class="md:col-span-5 space-y-6">
           <img 
-            src="/logos/af-logo-horizontal-light.svg" 
+            src="/logos/af-logo-horizontal-navy.svg" 
             alt="AFDevelopment Logo" 
             class="h-9 w-auto"
           />
